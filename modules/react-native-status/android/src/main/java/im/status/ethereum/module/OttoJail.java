@@ -1,6 +1,6 @@
 package im.status.ethereum.module;
 
-import com.github.status_im.status_go.cmd.Statusgo;
+import com.github.status_im.status_go.Statusgo;
 
 public class OttoJail implements Jail {
     @Override

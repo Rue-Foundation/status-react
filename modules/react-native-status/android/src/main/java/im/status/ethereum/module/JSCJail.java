@@ -2,7 +2,7 @@ package im.status.ethereum.module;
 
 import android.util.Log;
 
-import com.github.status_im.status_go.cmd.Statusgo;
+import com.github.status_im.status_go.Statusgo;
 
 import org.json.JSONException;
 import org.json.JSONObject;
